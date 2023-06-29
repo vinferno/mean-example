@@ -1,0 +1,91 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.d.ts": {
+        "version": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "signature": "2dc8c927c9c162a773c6bb3cdc4f3286c23f10eedc67414028f9cb5951610f60",
+        "affectsGlobalScope": false
+      },
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "signature": "9affb0a2ddc57df5b8174c0af96c288d697a262e5bc9ca1f544c999dc64a91e6",
+        "affectsGlobalScope": true
+      },
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "./src/test.ts": {
+        "version": "e7877781949780e6edbaae0bffca5c0d74434c64a4971c6e03152fa893d923de",
+        "signature": "29214cf643ed024e542415598f0694a54872b9af2242c180f62c9dfd0f96ac56",
+        "affectsGlobalScope": false
+      },
+      "./src/consts/socket-messages/client/client-messages.ts": {
+        "version": "1c543c6a6bdd23543fead3b08fb27061af4225631a991b236925df4d18e0e42d",
+        "signature": "2b8efacf8f5f18d8f50b09fe3ae73df75615eb123c5b0390bf12cec70bda3a53",
+        "affectsGlobalScope": false
+      },
+      "./src/consts/socket-messages/server/server-messages.ts": {
+        "version": "08a66692967859fa60f10e04b13fdeb46a53b0463a479bd0f11d940b9d8eb69a",
+        "signature": "d6613a54bf64df5a5a6607cb867e9f4803f99fd5f7eeb16cdedb2c2779d1a14a",
+        "affectsGlobalScope": false
+      },
+      "./src/index.ts": {
+        "version": "84cba7850d3fd2fa1be1a12329080baa79d7e258df33a732f943a10d4443f12f",
+        "signature": "05ee17b7d4ff4f651eab3d7c445d2a32a1b26677622ae71c3d7ce3e0262fd4c1",
+        "affectsGlobalScope": false
+      },
+      "../../../../node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "declaration": true,
+      "declarationMap": true,
+      "rootDir": "./src",
+      "composite": true,
+      "outDir": "./dist",
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./src/index.ts": [
+        "./src/consts/socket-messages/client/client-messages.ts",
+        "./src/consts/socket-messages/server/server-messages.ts",
+        "./src/test.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/index.ts": [
+        "./src/consts/socket-messages/client/client-messages.ts",
+        "./src/consts/socket-messages/server/server-messages.ts",
+        "./src/test.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.d.ts",
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../.nvm/versions/node/v12.16.3/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "../../../../node_modules/@types/color-name/index.d.ts",
+      "./src/consts/socket-messages/client/client-messages.ts",
+      "./src/consts/socket-messages/server/server-messages.ts",
+      "./src/index.ts",
+      "./src/test.ts"
+    ]
+  },
+  "version": "3.9.5"
+}

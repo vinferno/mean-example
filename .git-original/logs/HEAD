@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 fc3612bb4ba55b670da8fd42544f8a66ff93a205 vinsonf <vfernandez@shift3tech.com> 1630217417 -0700	commit (initial): init
+fc3612bb4ba55b670da8fd42544f8a66ff93a205 23c8246500ff14bb954a8aaea3e039f3b1697b39 vinsonf <vfernandez@shift3tech.com> 1630217461 -0700	commit: update readme
+23c8246500ff14bb954a8aaea3e039f3b1697b39 925776f744916689f90aad7273d398be39a64d94 vinsonf <vfernandez@shift3tech.com> 1630217807 -0700	commit: generate-angular-app
+925776f744916689f90aad7273d398be39a64d94 d187eb9bc310ddca1c29383b343ca16a00d08caf vinsonf <vfernandez@shift3tech.com> 1630217975 -0700	commit: npm init
+d187eb9bc310ddca1c29383b343ca16a00d08caf 44b7a9f75ad01e07e90c926457c215a80eac73a0 vinsonf <vfernandez@shift3tech.com> 1630218685 -0700	commit: add npm run client
+44b7a9f75ad01e07e90c926457c215a80eac73a0 492aad895b5e0330e399fd39e27b781a3f7dc91a vinsonf <vfernandez@shift3tech.com> 1630218749 -0700	commit: update readme
+492aad895b5e0330e399fd39e27b781a3f7dc91a 21e366ddd0e73bace957a925e655cc4e56155252 vinsonf <vfernandez@shift3tech.com> 1630222693 -0700	commit: add git ignore
+21e366ddd0e73bace957a925e655cc4e56155252 8c67044759c6bfd1e5daeb769c806d7daa950473 vinsonf <vfernandez@shift3tech.com> 1630222724 -0700	commit: update git ignore
+8c67044759c6bfd1e5daeb769c806d7daa950473 3fbd3ece603cedf9fc7c65ca2d3ee2dc9bc2f0a8 vinsonf <vfernandez@shift3tech.com> 1630251789 -0700	commit: basic setup

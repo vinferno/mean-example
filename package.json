@@ -1,0 +1,20 @@
+{
+  "name": "mean-example",
+  "version": "1.0.0",
+  "description": "- 1. generate Angular app ```  ng new client --skip-git --skip-tests true --style scss --routing true ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "npm run --prefix client start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinsonf/mean-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinsonf/mean-example/issues"
+  },
+  "homepage": "https://github.com/vinsonf/mean-example#readme"
+}
